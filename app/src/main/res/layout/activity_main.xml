@@ -23,9 +23,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center|center_horizontal|center_vertical"
+        android:background="@drawable/boton"
         android:text="@string/boton"
         android:textColor="@color/white"
-        android:background="@drawable/boton"/>
+        android:textSize="16sp" />
 
 
 </LinearLayout>
